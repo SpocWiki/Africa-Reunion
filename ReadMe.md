@@ -34,10 +34,4 @@ Capital :: [[Saint_Denis]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Reunion|Reunion]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Reunion.internal|Reunion.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Reunion.protect|Reunion.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Reunion.private|Reunion.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Reunion.personal|Reunion.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Reunion.secret|Reunion.secret]] 
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-20.88333,55.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Reunion/City/Saint_Denis|Saint_Denis]] 
-- [[../../../../../../_public/geo/Continent/Africa/Reunion/City/Saint_Denis.public|Saint_Denis.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Reunion/City/Saint_Denis.internal|Saint_Denis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Reunion/City/Saint_Denis.protect|Saint_Denis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Reunion/City/Saint_Denis.private|Saint_Denis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Reunion/City/Saint_Denis.personal|Saint_Denis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Reunion/City/Saint_Denis.secret|Saint_Denis.secret]] 
+
+### #is_/same_as :: [Saint_Denis](/_Standards/Earth/Continent/Africa/Africa~East/Reunion/City/Saint_Denis.md) 
+
+### #is_/same_as :: [Saint_Denis.public](/_public/Earth/Continent/Africa/Africa~East/Reunion/City/Saint_Denis.public.md) 
+
+### #is_/same_as :: [Saint_Denis.internal](/_internal/Earth/Continent/Africa/Africa~East/Reunion/City/Saint_Denis.internal.md) 
+
+### #is_/same_as :: [Saint_Denis.protect](/_protect/Earth/Continent/Africa/Africa~East/Reunion/City/Saint_Denis.protect.md) 
+
+### #is_/same_as :: [Saint_Denis.private](/_private/Earth/Continent/Africa/Africa~East/Reunion/City/Saint_Denis.private.md) 
+
+### #is_/same_as :: [Saint_Denis.personal](/_personal/Earth/Continent/Africa/Africa~East/Reunion/City/Saint_Denis.personal.md) 
+
+### #is_/same_as :: [Saint_Denis.secret](/_secret/Earth/Continent/Africa/Africa~East/Reunion/City/Saint_Denis.secret.md)
+
